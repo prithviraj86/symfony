@@ -1,2 +1,2 @@
-2ec394,127.0.0.1,GET,http://localhost:8000/,1520432935,eee8a0,200
-eee8a0,127.0.0.1,GET,http://localhost:8000/,1520432937,,404
+908edf,::1,GET,http://localhost/symfony/public/,1520673781,3b6677,200
+3b6677,::1,GET,http://localhost/symfony/public/,1520673781,,404

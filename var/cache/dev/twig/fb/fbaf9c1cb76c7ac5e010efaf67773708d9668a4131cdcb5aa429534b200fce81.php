@@ -1162,6 +1162,6 @@ class __TwigTemplate_d8378095dcd42b68dae745629f00fae7b3b8473fd63fb00b97dd90a3f95
     });
 
 /*]]>*/</script>
-", "@WebProfiler/Profiler/base_js.html.twig", "E:\\Xampp\\htdocs\\sympro\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Profiler\\base_js.html.twig");
+", "@WebProfiler/Profiler/base_js.html.twig", "E:\\Xampp\\htdocs\\symfony\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Profiler\\base_js.html.twig");
     }
 }

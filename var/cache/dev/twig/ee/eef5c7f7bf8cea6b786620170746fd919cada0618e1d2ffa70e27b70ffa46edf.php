@@ -363,6 +363,6 @@ class __TwigTemplate_1bba9bc8c7f6236434c10ab843542c058c59a9eaa704f3451795daa8285
         );
     })();
 /*]]>*/</script>
-", "@WebProfiler/Profiler/toolbar_js.html.twig", "E:\\Xampp\\htdocs\\sympro\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Profiler\\toolbar_js.html.twig");
+", "@WebProfiler/Profiler/toolbar_js.html.twig", "E:\\Xampp\\htdocs\\symfony\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Profiler\\toolbar_js.html.twig");
     }
 }

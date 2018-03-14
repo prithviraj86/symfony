@@ -128,6 +128,6 @@ class __TwigTemplate_fa3390ed7b54969c7a5e74bf999846cbf18d73bfdac390d369b28a2d488
         </tr>
     </tbody>
 </table>
-", "@Twig/Exception/traces_text.html.twig", "E:\\Xampp\\htdocs\\sympro\\vendor\\symfony\\twig-bundle\\Resources\\views\\Exception\\traces_text.html.twig");
+", "@Twig/Exception/traces_text.html.twig", "E:\\Xampp\\htdocs\\symfony\\vendor\\symfony\\twig-bundle\\Resources\\views\\Exception\\traces_text.html.twig");
     }
 }
