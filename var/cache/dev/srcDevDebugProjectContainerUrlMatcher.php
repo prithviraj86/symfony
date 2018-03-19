@@ -107,6 +107,21 @@ class srcDevDebugProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBund
 
         }
 
+        // app_home
+        if ('' === $trimmedPathinfo) {
+            $ret = array (  '_controller' => 'App\\Controller\\VariantsController::index',  '_route' => 'app_home',);
+            if ('/' === substr($pathinfo, -1)) {
+                // no-op
+            } elseif ('GET' !== $canonicalMethod) {
+                goto not_app_home;
+            } else {
+                return array_replace($ret, $this->redirect($rawPathinfo.'/', 'app_home'));
+            }
+
+            return $ret;
+        }
+        not_app_home:
+
         throw 0 < count($allow) ? new MethodNotAllowedException(array_unique($allow)) : new ResourceNotFoundException();
     }
 }
